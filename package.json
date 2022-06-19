@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "path": "^0.12.7",
+    "ts-loader": "^9.2.6",
+    "ttypescript": "^1.5.12",
+    "webpack": "^5.58.1",
+    "webpack-cli": "^4.9.0"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "typedoc": "^0.22.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "prod": "webpack --mode production"
+  },
+  "author": "FreestyleXV",
+  "license": "ISC"
+}

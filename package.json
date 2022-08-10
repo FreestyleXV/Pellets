@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "path": "^0.12.7",
     "ts-loader": "^9.2.6",
     "ttypescript": "^1.5.12",
@@ -20,5 +21,6 @@
     "prod": "webpack --mode production"
   },
   "author": "FreestyleXV",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://freestylexv.github.io/Pellets"
 }
